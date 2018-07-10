@@ -1,0 +1,8 @@
+#############################################################
+#############################################################
+
+1- Probe no py, precisa de uma placa de wifi que suporte modo monitor
+2- Contagem de pessoas e exclusao de arquivos
+3- Leitura de Luminosidade, e envio para o FireBase
+4- Leitura do Firebase para o Aplicativo Android com o RealDatabase
+5- Enjoy
